@@ -1,1 +1,2 @@
 git learning sample text
+git learning sample text - line 2
